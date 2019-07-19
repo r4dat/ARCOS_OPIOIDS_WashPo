@@ -1,4 +1,4 @@
-# ARCSO_OPIOIDS_WashPo
+# ARCOS_OPIOIDS_WashPo
 Subset of the ARCOS Opioids database from the Washington Post
 
 500 row subset of the Arcos Opioids dataset.
